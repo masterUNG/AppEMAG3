@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App E MAG</string>
+    <string name="user">user :</string>
+    <string name="password">Password :</string>
+    <string name="name">Name :</string>
+    <string name="new_register">New register</string>
+    <string name="surname">surname :</string>
+    <string name="id_student">ID student : ext 12345678</string>
+    <string name="title_have_space">Have Space</string>
+    <string name="message_have_space">Please Fill Every Blank</string>
+
+    <string name="unit1">Unit1</string>
+    <string name="unit2">Unit2</string>
+    <string name="unit3">Unit3</string>
+
+    <string name="title_service">Please Choose Unit</string>
+    <string name="demo_choice">ก. นี่คือตัวเลือกที่ 1</string>
+    <string name="read_content">ไปที่เนื้อหา</string>
+
+
+</resources>
